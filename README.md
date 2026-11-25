@@ -211,5 +211,3 @@ rs485-long-distance-link/
 
 ---
 
-*Carried out during industrial training in the Embedded Engineering division at Zone24x7 (Pvt) Ltd, 2026.*
-*Author: Shaman Karunaratne — [GitHub @0xshaman-eng](https://github.com/0xshaman-eng)*
